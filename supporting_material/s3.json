@@ -1,0 +1,9 @@
+[{
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject"
+    },
+    {
+        "ParameterKey": "S3BucketAppName",
+        "ParameterValue": "quangnd-s2-devops-123123"
+    }
+]
